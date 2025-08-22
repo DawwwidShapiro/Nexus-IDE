@@ -1,0 +1,5 @@
+{
+  "name": "Nexus IDE - AI Code Assistant",
+  "description": "A web-based prototype of a next-generation IDE for C++, Unreal Engine, and Python, featuring an integrated AI code assistant powered by Gemini. This MVP showcases the UI/UX, file management simulation, and AI-driven code generation.",
+  "requestFramePermissions": []
+}
